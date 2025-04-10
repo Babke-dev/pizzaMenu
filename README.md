@@ -1,9 +1,8 @@
 🔧 Tech Stack
-
-React.js​
-JavaScript (ES6+)​
-HTML​
-CSS​
+- React.js​
+- JavaScript (ES6+)​
+- HTML​
+- CSS​
 
 
 🚀 Live Demo
