@@ -16,14 +16,14 @@ https://pizza-menu-two-delta.vercel.app/
 
 🛠 Getting Started
 
-Clone the repository
+Clone the repository :
 git clone https://github.com/Babke-dev/pizzaMenu.git
 
-Navigate to the project directory
+Navigate to the project directory :
 cd pizzaMenu
 
-Install dependencies
+Install dependencies : 
 npm install
 
-Start the development server
+Start the development server :
 npm start
